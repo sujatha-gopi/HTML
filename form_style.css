@@ -1,0 +1,46 @@
+
+   * {
+       box-sizing: border-box;
+    } 
+
+    .main {
+      width: 50%;
+      float: left;
+      padding: 10px;
+      #margin-right:10px;
+      #border: 1px solid black;
+      line-height:1.3;
+      background-color:Bisque;
+      font-family:calibri;
+   }
+
+   .right {
+      width: 50%;
+      float: right;
+      text-align:left;
+      padding: 10px;
+      margin-bottom:10px;
+      #border: 1px solid black;
+      background-color:Bisque;
+      line-height:1.3;
+      font-family:calibri;
+   }
+
+   .submit {
+      padding: 32px;
+     #padding: 15px 32px;
+  text-align: left;
+  text-decoration: none;
+      
+   }
+
+   #t01 {
+    width:100%;
+    background-color: #f1f1c1;
+    border: 1px solid black;  
+  }
+
+   table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+ }
